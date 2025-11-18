@@ -1,7 +1,7 @@
 **Mapa Conceptual – Computación en la Nube**
 
 Este proyecto contiene un mapa conceptual elaborado para comprender de forma clara y estructurada los elementos fundamentales de la **Computación en la Nube**.  
-El mapa fue desarrollado utilizando **draw.io (diagrams.net)** y se organiza en tres componentes principales:
+El mapa fue desarrollado utilizando draw.io (diagrams.net) y se organiza en tres componentes principales:
 
 
 **1. Modelos de Servicio en la Nube**
@@ -38,9 +38,9 @@ Cada proveedor ofrece servicios avanzados de infraestructura, plataformas admini
 El propósito del mapa es visualizar de forma sintetizada:
 
 - Las principales categorías en las que se divide la computación en la nube.
-- Cómo se organizan los **modelos de servicio**.
-- Los **tipos de despliegue** de la nube.
-- Los **principales proveedores** disponibles en el mercado.
+- Cómo se organizan los modelos de servicio.
+- Los tipos de despliegue de la nube.
+- Los principales proveedores disponibles en el mercado.
 
 Este diagrama permite comprender rápidamente la estructura general de la nube y sus elementos clave.
 
