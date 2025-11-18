@@ -1,4 +1,4 @@
-# Mapa Conceptual – Computación en la Nube
+Mapa Conceptual – Computación en la Nube
 
 Este proyecto contiene un mapa conceptual elaborado para comprender de forma clara y estructurada los elementos fundamentales de la **Computación en la Nube**.  
 El mapa fue desarrollado utilizando **draw.io (diagrams.net)** y se organiza en tres componentes principales:
